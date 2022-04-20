@@ -2233,7 +2233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textContainer: {fileID: 1443539581}
-  textPrefab: {fileID: 6180363828197710218, guid: 6a69c33532638e449aa3032821bac463, type: 3}
+  textPrefab: {fileID: 779371158115860084, guid: 6a69c33532638e449aa3032821bac463, type: 3}
 --- !u!222 &1443539584
 CanvasRenderer:
   m_ObjectHideFlags: 0
