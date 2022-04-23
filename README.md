@@ -12,3 +12,4 @@ Yapılacaklar:
 - multiplayer
 - farklı weapon türleri (eklendi dahası da gerekebilir ayrıca upgrade ağacı yapılmalı)
 
+Support project with patreon!: https://www.patreon.com/tugcantopaloglu
