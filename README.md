@@ -11,5 +11,6 @@ Yapılacaklar:
 - karakter skin değiştirme
 - multiplayer
 - farklı weapon türleri (eklendi dahası da gerekebilir ayrıca upgrade ağacı yapılmalı)
+- particle effect eklenecek
 
 Support project with patreon!: https://www.patreon.com/tugcantopaloglu
