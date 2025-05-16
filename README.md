@@ -1,16 +1,14 @@
 # Archvile
-ArchVile the game under construct.
+ArchVile — the game is under construction.
 
-Yapılacaklar:
-- Hub eklenecek (köy gibi)
-- skill sistemi
-- farklı silahlar
-- procedural leveller
-- achievement
-- yeni karakter tasarımları
-- karakter skin değiştirme
-- multiplayer
-- farklı weapon türleri (eklendi dahası da gerekebilir ayrıca upgrade ağacı yapılmalı)
-- particle effect eklenecek
-
-Support project with patreon!: https://www.patreon.com/tugcantopaloglu
+To-Do List:
+A hub area will be added (like a village)
+Skill system
+Different weapons
+Procedurally generated levels
+Achievement system
+New character designs
+Character skin customization
+Multiplayer support
+Different weapon types (some added, more may be needed; also, an upgrade tree should be implemented)
+Particle effects will be added
